@@ -3,4 +3,4 @@ A small Halloween themed game made using pygame. this was completed in a short a
 
 LEFTCLICK
 
-Controls: AD > move left and right, SPACE > jump, LEFTCLICK > attack, RIGHTCLICK > teleport, ESC > pause, E > ultimate, 123/SCROLLWHEEL > cycle weapon type
+Controls: WASD > move left and right, SPACE > jump, LEFTCLICK > attack, RIGHTCLICK > teleport, ESC > pause, E > ultimate, 123/SCROLLWHEEL > cycle weapon type
