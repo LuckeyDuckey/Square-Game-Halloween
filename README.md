@@ -1,2 +1,2 @@
 # Square-Game-Halloween
-A small Halloween themed game made using pygame
+A small Halloween themed game made using pygame.
